@@ -1,6 +1,6 @@
 # monemone
 
-A new Flutter project.
+A project made by Jeremiah, Jovanca Elred Bonfilio, Jeffrey, and Stefan Santoso
 
 ## Getting Started
 
